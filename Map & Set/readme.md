@@ -26,7 +26,7 @@
 -  Set : https://youtu.be/czZ4F0R0ZTI?si=nOO4OwvYaF4LE27W
 -  Compare function : https://youtu.be/_9Rrq0q51BQ?si=SP7fByOmz-96ejU3
 ###### Sheet
-- 
+- https://codeforces.com/group/8ycz6rtvgR/contest/511498
 ###### Problems
 - [Problem - A - Codeforces](https://codeforces.com/contest/2/problem/A) // challenging
 - [CSES - Sum of Two Values](https://cses.fi/problemset/task/1640)
